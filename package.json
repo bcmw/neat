@@ -34,8 +34,8 @@
     "growly": "~1.1.1",
     "notify-send": "~0.1.2",
     "istanbul": "~0.1.34",
-    "docco": "git://github.com/abe33/docco.git#feature-exports",
-    "highlight.js": "git://github.com/abe33/highlight.js.git#node_build",
+    "docco": "git://github.com/abe33/docco.git",
+    "highlight.js": "git://github.com/abe33/highlight.js.git",
     "coffeelint": "~0.5.4",
     "jasmine-node": "~1.7.1"
   },
